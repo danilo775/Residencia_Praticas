@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Analia/Desktop/Residencia/Pratica_11",
-      "program": "c:/Users/Analia/Desktop/Residencia/Pratica_11/build/Debug/outDebug",
+      "cwd": "c:/Users/Analia/Desktop/Residencia/Praticas/Pratica_11",
+      "program": "c:/Users/Analia/Desktop/Residencia/Praticas/Pratica_11/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

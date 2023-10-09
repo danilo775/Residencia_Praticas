@@ -1,0 +1,16 @@
+ Coesão da função maxmin:
+
+A função maxmin apresenta uma alta coesão. Ela tem uma única responsabilidade clara, que é encontrar o valor máximo e mínimo em um vetor de inteiros.
+Não há mistura de lógicas diferentes ou tarefas adicionais dentro da função. 
+Isso torna a função bem coesa, pois seus elementos internos estão relacionados e desempenham uma única tarefa bem definida.
+
+Acoplamento da função maxmin:
+
+A função maxmin tem um acoplamento moderado. 
+Ela depende de algumas variáveis externas, que são passadas como parâmetros: vetor, n, maximo, e minimo. 
+Embora dependa dessas variáveis externas, ela não tem conhecimento direto de outras partes do programa que não sejam essas variáveis. 
+Isso é uma prática recomendada, pois mantém o acoplamento sob controle, tornando a função relativamente independente e fácil de reutilizar em outros contextos.
+No entanto, ela ainda possui algum grau de acoplamento devido à necessidade desses parâmetros.
+
+Em resumo, a função maxmin tem uma alta coesão, pois realiza uma única tarefa bem definida, e um acoplamento moderado, pois depende de algumas variáveis externas passadas como parâmetros. 
+Isso a torna uma função bem projetada, clara e potencialmente reutilizável em diferentes partes do código.
